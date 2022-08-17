@@ -4,7 +4,7 @@ We have evaluated multiple well-known deep models
 we split data in two different way : subject wise and slice-wise. current studies on the application of DL in health-related data show that slice-wise split overestimates the accuracy of the models and makes them unreliable in clinical diagnostic applications. 
 For more information about dataset please check:[ narges-sa/Subject-wise-Split-ISFCT-COVID-19-Dataset](https://github.com/narges-sa/Subject-wise-Split-ISFCT-COVID-19-Dataset)
 
-The main part of the code is not public and will be released after the paper's public publication! 
+The main part of the code is not public and will be released after the paper's public release! 
 
 
 # Usage Rights:
